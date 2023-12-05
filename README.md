@@ -1,7 +1,7 @@
-#Solution Description:
+# Solution Description:
 
-#-Wave-powered sustainable desalination solution:
-#WIMBI ![393179920_890472009364110_5342230098959880417](https://github.com/SkanderChayoukhi/SIGHT_Challenge_IEEE_SUPCOM_SB/assets/138572009/e033b065-e840-4a88-a2e5-c8e053e5dad6)
+# -Wave-powered sustainable desalination solution:
+# WIMBI ![393179920_890472009364110_5342230098959880417](https://github.com/SkanderChayoukhi/SIGHT_Challenge_IEEE_SUPCOM_SB/assets/138572009/e033b065-e840-4a88-a2e5-c8e053e5dad6)
 Consists in a 5mx8m sized buoy that is equipped with a solar panel array system featuring a solar tracker for optimized energy capture and a protective mechanical shutter system.
 All components are made with adequate rust-resistant materials and routine maintenance checks are scheduled for corrosion inspection.
 In addition to solar power, the buoy generates power using wave energy, and has a hydraulic motor and alternator mechanism attached to it serving the sole purpose of storing excess energy in safely-mounted batteries. This stored power is later distributed and utilized by the local population in vital institutions such as schools, hospitals etc.
