@@ -36,6 +36,39 @@ In addition to that, the buoy is also implicated in preserving the marine ecosys
 
 -Click import all
 
+# Mobile App : 
+# Figma prototype : 
+https://www.figma.com/file/iZK0qhWty2qsb4xUNVyF02/wimbi?type=design&node-id=0%3A1&mode=design&t=qqfvIw8JEROVXCf6-1
+# Screenshots : 
+![403626319_271846068815318_5824868315091451586_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/9de3f673-ba36-48e1-aeed-eb8b95a2c97b)
+
+![403626319_271846068815318_58248683150914515586_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/401e7e05-c1ed-4037-8588-f32ea4cc7856)
+
+![403626319_271846068815318_58248636_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/e71fc587-c390-4645-95f9-fa11bd407b3f)
+
+![387458342_322172764008963_391849064023141618_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/4084374b-9db2-409c-95b7-8de8bef2b131)
+
+![385538815_263733413345141_6418072286146263332_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/14d6428b-26ba-4c14-ad2d-3e16ab101103)
+
+![384563721_304835199193789_7280345461718400144_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/9d48e0ff-e4e8-46e1-b422-2e30dd44ef0a)
+
+![370291499_371557425323217_9116494111693409331_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/36ba1cb4-158c-43d5-b081-f984e935a5ca)
+
+![369721684_899709648181486_3958976600366496674_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/ed098eee-f16e-4f0a-9d9e-60769d112942)
+
+
+![368082152_897892278092125_926378539273740311_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/53a3d710-129e-4e43-9138-202e195351d8)
+
+![385541789_1690610831462438_1567093943610348214_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/af086536-e895-4164-9d27-c039017549e3)
+
+![369810719_1018260465914900_1177667012371139778_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/7ae62a45-d344-4bb5-a3b2-5bda33ab3cfe)
+
+![386451203_769460178348770_7929549837102679486_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/ad9092c4-99da-4a0c-8969-5996a8d54211)
+
+
+![387494210_728379219151330_2900888800042066584_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/1bd5da78-e0c6-49f3-8055-7aacdd7eb250)
+
+![377245517_323780110427277_226950043586955218_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/88c43464-8c43-466c-8953-a8d3adc5c7c1)
 
 
 
