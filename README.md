@@ -93,7 +93,9 @@ images in lib/images/
 
 # to install the app on your phone :
 *open Wimbi.apk in your phone
+
 *give permission to install apps from Unknown Resources 
+
 *if you get "unsafe app" : hit more details --> install anyways
 
 
