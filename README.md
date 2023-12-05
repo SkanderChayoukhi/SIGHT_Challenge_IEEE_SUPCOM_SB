@@ -68,20 +68,30 @@ https://www.youtube.com/watch?v=RH1ItyuCGLg
 - [x] energy tracking
 - [x] maritime sustainability
 
-- [ ] # Installation :
+   # Installation :
+      
 to open the App Project:
+
 *install Android studio
+
 *install flutter
+
 *download an emulator : Pixel 7
-*open the project named Wimbi      #to change 
+
+*open the project named Flutter app
+
 *update dependencies in pubspec.yaml 
+
 run the app 
+
 *the full code is in : main.dart
+
 dependencies in pubspec.yaml
+
 images in lib/images/
 
 
-to install the app on your phone :
+# to install the app on your phone :
 *open Wimbi.apk in your phone
 *give permission to install apps from Unknown Resources 
 *if you get "unsafe app" : hit more details --> install anyways
