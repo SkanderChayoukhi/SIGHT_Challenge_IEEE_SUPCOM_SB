@@ -41,7 +41,6 @@ In addition to that, the buoy is also implicated in preserving the marine ecosys
 https://www.figma.com/file/iZK0qhWty2qsb4xUNVyF02/wimbi?type=design&node-id=0%3A1&mode=design&t=qqfvIw8JEROVXCf6-1
 # Screenshots : 
 ![370112571_682604507350072_2506798383110560365_n (1)](https://github.com/ihebbettaibe/flutterapp/assets/152183684/ac1dc2fb-bfb6-453e-851d-23aa4792a3ea)
-![370112571_682604507350072_2506798383110560365_n (1)](https://github.com/ihebbettaibe/flutterapp/assets/152183684/ac1dc2fb-bfb6-453e-851d-23aa4792a3ea)
 ![376556043_1009557377002232_843837476535766985_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/60547522-6545-4bfc-a070-c1f4fa02a6af)
 ![385542677_1023182272092765_3501235672863932984_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/40ae34c1-adce-4d2d-b1e1-2e5cb69e527f)
 
