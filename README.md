@@ -49,6 +49,44 @@ https://www.figma.com/file/iZK0qhWty2qsb4xUNVyF02/wimbi?type=design&node-id=0%3A
 # Demo video of the app :
 https://www.youtube.com/watch?v=RH1ItyuCGLg
 
+# flutterapp
+# 🌊🌊🌊 Wimbi (Flutter Wimbi App)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/d6zq2Bb/Wimbi.png" alt="Wimbi" border="0" style="height:200px; width:auto"></a>
+
+
+## 💻 Requirements
+
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+- A little knowledge of Dart and Flutter
+
+## ✨ Features
+
+- [x] User friendly
+- [x] seamless navigation 
+- [x] real-time monitoring capabilities
+- [x] energy tracking
+- [x] maritime sustainability
+
+- [ ] # Installation :
+to open the App Project:
+*install Android studio
+*install flutter
+*download an emulator : Pixel 7
+*open the project named Wimbi      #to change 
+*update dependencies in pubspec.yaml 
+run the app 
+*the full code is in : main.dart
+dependencies in pubspec.yaml
+images in lib/images/
+
+
+to install the app on your phone :
+*open Wimbi.apk in your phone
+*give permission to install apps from Unknown Resources 
+*if you get "unsafe app" : hit more details --> install anyways
+
+
 
 
  
