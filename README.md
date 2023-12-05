@@ -28,9 +28,12 @@ In addition to that, the buoy is also implicated in preserving the marine ecosys
 ![393086914_324031647085567_3460906771134691130_n](https://github.com/SkanderChayoukhi/SIGHT_Challenge_IEEE_SUPCOM_SB/assets/138572009/678c51c5-8b3c-4061-ad39-6a1291aa79bd)
 ![393084855_1810084122829806_4825413491445731726_n (1)](https://github.com/SkanderChayoukhi/SIGHT_Challenge_IEEE_SUPCOM_SB/assets/138572009/a647c7ef-58df-435d-9b8b-206fb6ae14c3)
 # Installation : 
--Install Unity version 2021 or higher from UnityHub or directly from Unity website
+-Install Unity version 2021 or higher from UnityHub or directly from Unity website.
+
 -Create a new project
+
 -In the top bar, click on Assets, Import Package, Custom Package then choose "sight" Unity Package or you can simply double click the dowloaded Unity Package file and it will be oppened automatically
+
 -Click import all
 
 
