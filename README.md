@@ -2,21 +2,33 @@
 
 # -Wave-powered sustainable desalination solution:
 # WIMBI ![393179920_890472009364110_5342230098959880417](https://github.com/SkanderChayoukhi/SIGHT_Challenge_IEEE_SUPCOM_SB/assets/138572009/e033b065-e840-4a88-a2e5-c8e053e5dad6)
+# Buoy structure:
 Consists in a 5mx8m sized buoy that is equipped with a solar panel array system featuring a solar tracker for optimized energy capture and a protective mechanical shutter system.
 All components are made with adequate rust-resistant materials and routine maintenance checks are scheduled for corrosion inspection.
+Energy generation:
 In addition to solar power, the buoy generates power using wave energy, and has a hydraulic motor and alternator mechanism attached to it serving the sole purpose of storing excess energy in safely-mounted batteries. This stored power is later distributed and utilized by the local population in vital institutions such as schools, hospitals etc.
+Water desalination process:
 The buoy performs the desalination process through an all-in-one system that has all the necessary functionalities:
 -Water collection and desalination using reverse osmosis performed in a manner that is considerate to the existing marine ecosystem
 -Brine discharge over a broad area minimizing environmental impact
 -Pumping the desalinated water to shore through a pipeline made from non-corrosive material to be later distributed.
-An all-inclusive sensor system is integrated in the buoy to provide relevant information(anemometer-barometer-rain/light/UV sensors) that would be useful resources to be used later on.
+ 
+
+ 
+# Sensor system:
+An all-inclusive sensor system is integrated in the buoy to provide relevant information (anemometer-barometer-rain/light/UV sensors) that would be useful resources to be used later on.
+# Mobile app:
 In fact, the buoy could be managed and monitored remotely through a mobile app that’s available to all users of the solution.
-Through this application, users can receive notifications that inform them about any changes that may occur to the buoy system such as changes in  weather conditions,battery and water tank levels.The app also grants the user remote control capabilities that make it possible to manually adjust the solar panels positions and orientation.
-Scaling our solution:
+Through this application, users can receive notifications that inform them about any changes that may occur to the buoy system such as changes in weather conditions, battery and water tank levels. The app also grants the user remote control capabilities that make it possible to manually adjust the solar panels positions and orientation.
+# Scaling our solution:
 Our solution is not only efficient and performant, it is also flexible and can be tailor-made according to the deployment site’s constraints.
 Our inner-country models focus on cleaning contaminated water in dams and lakes. By introducing a product that separates clean water from debris and treats it.
 Simultaneously, we're crafting solutions to attach to existing boats, placing solar panels on boat roofs, and incorporating water tanks and battery compartments inside, extending our reach to diverse water bodies.
 In addition to that, the buoy is also implicated in preserving the marine ecosystem as it is equipped with an add-on trash skimmer. A dedicated pump system within the skimmer intakes waters along with debris, separating trash from water. The debris is collected in a robust catch bag, contributing to ongoing pollution prevention.
+
+
+# Video demo :
+https://www.youtube.com/watch?v=bQXvCzwk7_I
 
 # Prototypes :
 # Unity Prototype :
@@ -36,6 +48,67 @@ In addition to that, the buoy is also implicated in preserving the marine ecosys
 
 -Click import all
 
+# Mobile App : 
+# Figma prototype : 
+https://www.figma.com/file/iZK0qhWty2qsb4xUNVyF02/wimbi?type=design&node-id=0%3A1&mode=design&t=qqfvIw8JEROVXCf6-1
+# Screenshots : 
+![370112571_682604507350072_2506798383110560365_n (1)](https://github.com/ihebbettaibe/flutterapp/assets/152183684/ac1dc2fb-bfb6-453e-851d-23aa4792a3ea)
+![377246222_248827928213221_1673465187290514978_n (2)](https://github.com/ihebbettaibe/flutterapp/assets/152183684/25cbdecd-5dd8-40ae-95a8-028bb2a06404)
+![376556043_1009557377002232_843837476535766985_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/60547522-6545-4bfc-a070-c1f4fa02a6af)
+![385542677_1023182272092765_3501235672863932984_n](https://github.com/ihebbettaibe/flutterapp/assets/152183684/40ae34c1-adce-4d2d-b1e1-2e5cb69e527f)
+
+
+# Demo video of the app :
+https://www.youtube.com/watch?v=RH1ItyuCGLg
+
+# flutterapp
+# 🌊🌊🌊 Wimbi (Flutter Wimbi App)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/d6zq2Bb/Wimbi.png" alt="Wimbi" border="0" style="height:200px; width:auto"></a>
+
+
+## 💻 Requirements
+
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+- A little knowledge of Dart and Flutter
+
+## ✨ Features
+
+- [x] User friendly
+- [x] seamless navigation 
+- [x] real-time monitoring capabilities
+- [x] energy tracking
+- [x] maritime sustainability
+
+   # Installation :
+      
+to open the App Project:
+
+*install Android studio
+
+*install flutter
+
+*download an emulator : Pixel 7
+
+*open the project named Flutter app
+
+*update dependencies in pubspec.yaml 
+
+run the app 
+
+*the full code is in : main.dart
+
+dependencies in pubspec.yaml
+
+images in lib/images/
+
+
+# To install the app on your phone :
+*open Wimbi.apk in your phone
+
+*give permission to install apps from Unknown Resources 
+
+*if you get "unsafe app" : hit more details --> install anyways
 
 
 
