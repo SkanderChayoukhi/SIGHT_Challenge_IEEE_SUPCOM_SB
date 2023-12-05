@@ -18,6 +18,9 @@ Our inner-country models focus on cleaning contaminated water in dams and lakes.
 Simultaneously, we're crafting solutions to attach to existing boats, placing solar panels on boat roofs, and incorporating water tanks and battery compartments inside, extending our reach to diverse water bodies.
 In addition to that, the buoy is also implicated in preserving the marine ecosystem as it is equipped with an add-on trash skimmer. A dedicated pump system within the skimmer intakes waters along with debris, separating trash from water. The debris is collected in a robust catch bag, contributing to ongoing pollution prevention.
 
+# Video demo :
+https://www.youtube.com/watch?v=bQXvCzwk7_I
+
 # Prototypes :
 # Unity Prototype :
 # Screenshots : 
